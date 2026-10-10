@@ -224,18 +224,29 @@
 
   <section id="contact">
     <h2>Контакты</h2>
-    <ul class="contacts">
-      <li><span>Telegram (рабочий)</span> <a href="https://t.me/annserba94">@annserba94</a></li>
-      <li><span>E-mail</span> <a href="mailto:annserba94@yandex.ru">annserba94@yandex.ru</a></li>
-      <li><span>GitHub</span> <a href="https://github.com/annaserba">github.com/annaserba</a></li>
-      <li><span>Хабр</span> <a href="https://habr.com/ru/users/annserba/">habr.com/ru/users/annserba</a></li>
-      <li><span>LinkedIn</span> <a href="https://www.linkedin.com/in/annaserba/">linkedin.com/in/annaserba</a></li>
-      <li><span>Формат</span> удалённо, часовой пояс МСК; гибрид — только на испытательный срок</li>
-    </ul>
-    <!-- TODO: после подключения почты на домене добавьте в список выше строку
-         с адресом вида anna@annaserba.ru. Важно держать комментарии ВНЕ списка:
-         вложенный элемент списка внутри комментария ломает извлечение контактов
-         ИИ-агентами и парсерами (проверено). -->
+    <!-- Контакты продублированы списком определений (dl) и обычным текстом:
+         часть ИИ-экстракторов выбрасывает блоки <ul>, состоящие из ссылок. -->
+    <dl class="contacts">
+      <dt>Telegram (рабочий)</dt>
+      <dd><a href="https://t.me/annserba94">@annserba94</a></dd>
+      <dt>E-mail</dt>
+      <dd><a href="mailto:annserba94@yandex.ru">annserba94@yandex.ru</a></dd>
+      <dt>GitHub</dt>
+      <dd><a href="https://github.com/annaserba">github.com/annaserba</a></dd>
+      <dt>Хабр</dt>
+      <dd><a href="https://habr.com/ru/users/annserba/">habr.com/ru/users/annserba</a></dd>
+      <dt>LinkedIn</dt>
+      <dd><a href="https://www.linkedin.com/in/annaserba/">linkedin.com/in/annaserba</a></dd>
+      <dt>Формат работы</dt>
+      <dd>удалённо, часовой пояс МСК; гибрид — только на испытательный срок</dd>
+    </dl>
+    <p>
+      Связаться со мной: Telegram @annserba94, e-mail annserba94@yandex.ru,
+      GitHub github.com/annaserba, Хабр habr.com/ru/users/annserba,
+      LinkedIn linkedin.com/in/annaserba. Работаю удалённо, часовой пояс МСК.
+    </p>
+    <!-- TODO: после подключения почты на домене добавьте адрес вида anna@annaserba.ru
+         и в список определений, и в абзац выше. -->
   </section>
 
   <section id="en" lang="en">

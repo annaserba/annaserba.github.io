@@ -233,25 +233,26 @@ p:last-child { margin-bottom: 0; }
 
 /* Контакты */
 .contacts {
-  margin: 0;
+  margin: 0 0 16px;
   padding: 0;
-  list-style: none;
 }
 
-.contacts li {
-  display: flex;
-  gap: 12px;
-  padding: 10px 0;
+.contacts dt {
+  padding-top: 10px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.contacts dd {
+  margin: 2px 0 0;
+  padding-bottom: 10px;
   border-bottom: 1px solid var(--border);
   font-size: 15px;
 }
 
-.contacts li:last-child { border-bottom: 0; }
+.contacts dt:first-of-type { padding-top: 0; }
 
-.contacts span {
-  min-width: 170px;
-  color: var(--muted);
-}
+.contacts dt:last-of-type + dd { border-bottom: 0; }
 
 /* Подвал */
 footer {
@@ -262,7 +263,5 @@ footer {
 
 @media (max-width: 520px) {
   .hero { padding: 44px 0 36px; }
-  .contacts li { flex-direction: column; gap: 2px; }
-  .contacts span { min-width: 0; }
   .job-head { flex-direction: column; }
 }
