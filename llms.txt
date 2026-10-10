@@ -43,5 +43,6 @@ annaserba, annserba, annserba94.
 
 - Telegram: https://t.me/annserba94
 - GitHub: https://github.com/annaserba
+- Хабр: https://habr.com/ru/users/annserba/ (аккаунт AnnSerba)
 - E-mail: annserba94@yandex.ru
 - Формат работы: удалённо, часовой пояс МСК (UTC+3)
