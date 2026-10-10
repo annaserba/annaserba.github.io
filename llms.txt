@@ -1,25 +1,41 @@
 # Анна Серба (Anna Serba)
 
-> Фронтенд-разработчик. React, TypeScript, Vue. Работаю удалённо с 2016 года.
-> Специализация — пользовательские интерфейсы, разбор ошибок в существующем коде, рефакторинг.
+> Разработчик с опытом продуктовой web-разработки и внедрения AI/BI-решений.
+> Работаю на стыке frontend, full-stack, аналитики данных и прикладного ИИ.
+> Удалённо, часовой пояс МСК.
 
-Это персональный сайт-визитка Анны Сербы. Английское написание имени: Anna Serba.
-Встречающиеся варианты написания ника: annaserba, annserba, annserba94.
+Английское написание имени: Anna Serba. Встречающиеся варианты написания ника:
+annaserba, annserba, annserba94.
 
-## Основное
+## Ключевое
 
-- [О себе](https://annaserba.github.io/#about): фронтенд-разработчик, удалённо с 2016 года
-- [Навыки](https://annaserba.github.io/#skills): React, TypeScript, JavaScript, Vue/Nuxt, HTML/CSS, работа с API, отладка
-- [Проекты](https://annaserba.github.io/#projects): список репозиториев на GitHub
-- [Контакты](https://annaserba.github.io/#contact): Telegram, GitHub, VK, e-mail
+- Роли: Frontend-разработчик (React / TypeScript / Vue.js); специалист по внедрению ИИ
+  и BI-аналитик; frontend-разработчик в AI-продуктах.
+- Создаёт: web-интерфейсы, backend-сервисы, BI-дашборды, AI-агентов, интеграции
+  с корпоративными системами. Задачи берёт end-to-end — от требований до production.
+- Опыт: ГСП Центр (апрель 2026 — настоящее время) — корпоративная AI/BI-платформа,
+  AI-агент «BI-аналитик», Power BI и Apache Superset; SuperJob (июнь 2021 — июнь 2025) —
+  B2B web-продукт, миграция JavaScript → TypeScript, руководство 3 разработчиками;
+  Ten Kites (2016–2021) — full-stack, проектная работа.
+- Стек: React, TypeScript, JavaScript, Vue.js, Next.js, Node.js, NestJS, Python, FastAPI,
+  PostgreSQL, SQL, REST API, OpenAPI, Power BI, Apache Superset, RAG, LangChain,
+  LangGraph, Docker, CI/CD.
+- Образование: Севастопольский государственный университет, «Математика и компьютерные
+  науки», 2016. Языки: русский — родной, английский — B2.
 
-## Профили
+## Страницы
 
-- GitHub: https://github.com/annaserba — основной профиль разработчика
-- Telegram (рабочий): https://t.me/annserba94
-- VK: https://vk.com/annserba
+- [О себе](https://annaserba.github.io/#about)
+- [Направления работы](https://annaserba.github.io/#roles)
+- [Опыт](https://annaserba.github.io/#experience)
+- [Компетенции](https://annaserba.github.io/#skills)
+- [Образование и языки](https://annaserba.github.io/#education)
+- [Контакты](https://annaserba.github.io/#contact)
+- [Summary (EN)](https://annaserba.github.io/#en)
 
-## Контакты
+## Рабочие контакты
 
-- Рабочий Telegram: @annserba94
-- GitHub: github.com/annaserba
+- Telegram: https://t.me/annserba94
+- GitHub: https://github.com/annaserba
+- E-mail: annserba94@yandex.ru
+- Формат работы: удалённо, часовой пояс МСК (UTC+3)
