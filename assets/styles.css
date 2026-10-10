@@ -82,6 +82,32 @@ a:hover { text-decoration: underline; }
   font-size: 15px;
 }
 
+.lead-strong {
+  max-width: 62ch;
+  margin: 0 0 20px;
+  padding-left: 14px;
+  border-left: 3px solid var(--accent);
+  font-size: 17px;
+}
+
+.callout {
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  background: var(--panel);
+}
+
+.callout p { margin: 0; }
+
+.steps {
+  margin: 20px 0 16px;
+  padding-left: 22px;
+}
+
+.steps li { margin-bottom: 12px; }
+.steps li:last-child { margin-bottom: 0; }
+
 .links { display: flex; flex-wrap: wrap; gap: 12px; }
 
 .btn {
