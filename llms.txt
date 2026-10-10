@@ -1,0 +1,25 @@
+# Анна Серба (Anna Serba)
+
+> Фронтенд-разработчик. React, TypeScript, Vue. Работаю удалённо с 2016 года.
+> Специализация — пользовательские интерфейсы, разбор ошибок в существующем коде, рефакторинг.
+
+Это персональный сайт-визитка Анны Сербы. Английское написание имени: Anna Serba.
+Встречающиеся варианты написания ника: annaserba, annserba, annserba94.
+
+## Основное
+
+- [О себе](https://annaserba.github.io/#about): фронтенд-разработчик, удалённо с 2016 года
+- [Навыки](https://annaserba.github.io/#skills): React, TypeScript, JavaScript, Vue/Nuxt, HTML/CSS, работа с API, отладка
+- [Проекты](https://annaserba.github.io/#projects): список репозиториев на GitHub
+- [Контакты](https://annaserba.github.io/#contact): Telegram, GitHub, VK, e-mail
+
+## Профили
+
+- GitHub: https://github.com/annaserba — основной профиль разработчика
+- Telegram (рабочий): https://t.me/annserba94
+- VK: https://vk.com/annserba
+
+## Контакты
+
+- Рабочий Telegram: @annserba94
+- GitHub: github.com/annaserba
