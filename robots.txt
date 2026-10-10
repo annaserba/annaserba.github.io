@@ -1,4 +1,4 @@
-# robots.txt для annaserba.github.io (и для annaserba.ru после привязки домена)
+# robots.txt для annaserba.ru (сайт-визитка на GitHub Pages)
 # Задача: не мешать поиску и ИИ-краулерам, а явно разрешить их.
 
 User-agent: *
@@ -61,6 +61,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://annaserba.github.io/sitemap.xml
-# После привязки домена замените строку выше на:
-# Sitemap: https://annaserba.ru/sitemap.xml
+Sitemap: https://annaserba.ru/sitemap.xml

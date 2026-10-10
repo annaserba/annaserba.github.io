@@ -30,14 +30,14 @@ annaserba, annserba, annserba94.
 
 ## Страницы
 
-- [О себе](https://annaserba.github.io/#about)
-- [Работа с неопределёнными требованиями](https://annaserba.github.io/#skill)
-- [Направления работы](https://annaserba.github.io/#roles)
-- [Опыт](https://annaserba.github.io/#experience)
-- [Компетенции](https://annaserba.github.io/#skills)
-- [Образование и языки](https://annaserba.github.io/#education)
-- [Контакты](https://annaserba.github.io/#contact)
-- [Summary (EN)](https://annaserba.github.io/#en)
+- [О себе](https://annaserba.ru/#about)
+- [Работа с неопределёнными требованиями](https://annaserba.ru/#skill)
+- [Направления работы](https://annaserba.ru/#roles)
+- [Опыт](https://annaserba.ru/#experience)
+- [Компетенции](https://annaserba.ru/#skills)
+- [Образование и языки](https://annaserba.ru/#education)
+- [Контакты](https://annaserba.ru/#contact)
+- [Summary (EN)](https://annaserba.ru/#en)
 
 ## Рабочие контакты
 

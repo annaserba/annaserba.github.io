@@ -1,5 +1,8 @@
 # Сайт-визитка Анны Сербы
 
+**Живые адреса:** https://annaserba.ru/ — сайт (GitHub Pages, custom domain),
+https://bi.annaserba.ru/ — Superset (nginx + Let's Encrypt на VDSina, `noindex`).
+
 Статический сайт из одного HTML-файла. Зависимостей нет, собирать нечего:
 достаточно положить содержимое этой папки в репозиторий GitHub Pages.
 
