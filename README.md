@@ -39,10 +39,12 @@ annaserba-site/
 - [ ] В Telegram `@annserba94` — в описание добавить ссылку на сайт.
 - [ ] В профиле Хабра (`habr.com/ru/users/annserba/`) — добавить сайт в контакты
       и короткое описание с теми же формулировками, что на сайте.
-- [ ] **LinkedIn** — добавить ссылку на профиль в блок «Контакты» `index.html`
-      (в HTML оставлено закомментированное место), а сайт — в раздел Contact info профиля.
-      Заголовок профиля в LinkedIn: `Senior Frontend Engineer | React & TypeScript |
-      AI Integrations | Full-Stack Engineer` — сайт выровнен под эту же формулировку.
+- [x] **LinkedIn** — ссылка `linkedin.com/in/annaserba` добавлена в «Контакты», JSON-LD
+      `sameAs` и `llms.txt`. Заголовок профиля приведён к позиционированию:
+      `Senior Frontend · AI-интеграции · Full-stack · BI-аналитика`.
+- [ ] В LinkedIn: добавить `https://annaserba.ru/` в Contact info → Website
+      и поставить публичный URL профиля `linkedin.com/in/annserba`, если свободен
+      (совпадёт с Telegram, VK и Хабром).
 - [ ] Позже: карточка в **Wikidata** (потребуются 2–3 независимых источника о вас — свой сайт источником не считается).
 
 ## Шаг 3. Привязать свой домен (когда решите)
